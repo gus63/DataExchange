@@ -1,0 +1,6 @@
+version:1.0,classes:Company/Person
+"__CLASS_HEADER__","Company","ID","name","mainStreet","mainCity","mainState","mainZip"
+"1","Linbeck","3900 Essex Lane, Suite 1200","Houston","TX","77027"
+"__CLASS_HEADER__","Person","ID","firstName","middleName","lastName","honorific","suffix","homeStreet","homeCity","homeState","homeZip","company.ID","employer"
+"1","Leo","Edward","Linbeck","Mr.","III","2132 Rice Blvd.","Houston","TX","77005","1","Linbeck"
+"2","Carolyn","Sue","Noack","Ms.","","1234 Front St.","Houston","TX","77000","1","Linbeck"
