@@ -1,1 +1,1 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><breakpoints><breakpoint path="../Test/Modules/dataExchangeFunctions.js" line="330" content="	var filename, importFile, result;"/><breakpoint path="../Test/Modules/dataExchangeFunctions.js" line="222" content="			if (success &amp;&amp; attr !== keyAttr) {"/></breakpoints>
+﻿<?xml version="1.0" encoding="UTF-8"?><breakpoints/>

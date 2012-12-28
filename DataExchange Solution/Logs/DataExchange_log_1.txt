@@ -646,3 +646,144 @@
 2012-12-26 19:32:23 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Closing the project
 2012-12-26 19:32:23 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project closed (duration: 2 ms)
 2012-12-26 19:32:23 [com.wakanda-software.DataExchange] INFO - Solution closed (duration: 857 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange] INFO - Opening the solution
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange] INFO - Opening the users and groups directory
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange] INFO - Users and groups directory opened (duration: 58 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.Test] INFO - Opening the project
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.Test] INFO - Opening the database
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.Test] INFO - Database opened (duration: 8 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.Test] INFO - Project opened (duration: 24 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Opening the project
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange] INFO - Solution opened (duration: 121 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange] INFO - Starting the solution
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.Test] INFO - Starting the project
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.Test] INFO - Starting the HTTP server
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.Test] INFO - HTTP server started (duration: 30 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.Test] INFO - Project started (duration: 88 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Starting the project
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Starting the HTTP server
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project started (duration: 77 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.Test] INFO - Executing the bootstrap(s)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.Test] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-12-26 19:39:27 [com.wakanda-software.DataExchange] INFO - Solution started (duration: 177 ms)
+2012-12-26 19:49:28 [com.wakanda-software.DataExchange] INFO - Stopping the solution
+2012-12-26 19:49:28 [com.wakanda-software.DataExchange.Test] INFO - Stopping the project
+2012-12-26 19:49:29 [com.wakanda-software.DataExchange.Test] INFO - Project stopped (duration: 1061 ms)
+2012-12-26 19:49:29 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Stopping the project
+2012-12-26 19:49:31 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project stopped (duration: 2064 ms)
+2012-12-26 19:49:31 [com.wakanda-software.DataExchange] INFO - Solution stopped (duration: 3126 ms)
+2012-12-26 19:49:31 [com.wakanda-software.DataExchange] INFO - Closing the solution
+2012-12-26 19:49:31 [com.wakanda-software.DataExchange.Test] INFO - Closing the project
+2012-12-26 19:49:31 [com.wakanda-software.DataExchange.Test] INFO - Closing the database
+2012-12-26 19:49:31 [com.wakanda-software.DataExchange.Test] INFO - Database closed (duration: 406 ms)
+2012-12-26 19:49:31 [com.wakanda-software.DataExchange.Test] INFO - Project closed (duration: 409 ms)
+2012-12-26 19:49:31 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Closing the project
+2012-12-26 19:49:31 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2012-12-26 19:49:32 [com.wakanda-software.DataExchange] INFO - Solution closed (duration: 819 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange] INFO - Opening the solution
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange] INFO - Opening the users and groups directory
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange] INFO - Users and groups directory opened (duration: 12 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.Test] INFO - Opening the project
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.Test] INFO - Opening the database
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.Test] INFO - Database opened (duration: 6 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.Test] INFO - Project opened (duration: 17 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Opening the project
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange] INFO - Solution opened (duration: 66 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange] INFO - Starting the solution
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.Test] INFO - Starting the project
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.Test] INFO - Starting the HTTP server
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.Test] INFO - HTTP server started (duration: 29 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.Test] INFO - Project started (duration: 79 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Starting the project
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Starting the HTTP server
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project started (duration: 74 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.Test] INFO - Executing the bootstrap(s)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.Test] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-12-26 19:49:57 [com.wakanda-software.DataExchange] INFO - Solution started (duration: 164 ms)
+2012-12-26 21:18:45 [com.wakanda-software.DataExchange.Test] INFO - Calling JavaScript request handler, HTTP connection handler
+2012-12-26 21:18:45 [com.wakanda-software.DataExchange.Test.iasv] ERROR - [1033] call to 'optimize' function failed, HTTP connection handler
+2012-12-26 21:18:49 [com.wakanda-software.DataExchange] INFO - Stopping the solution
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange] INFO - Opening the solution
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange] INFO - Opening the users and groups directory
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange] INFO - Users and groups directory opened (duration: 11 ms)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.Test] INFO - Opening the project
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.Test] INFO - Opening the database
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.Test] INFO - Database opened (duration: 6 ms)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.Test] INFO - Project opened (duration: 17 ms)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Opening the project
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange] INFO - Solution opened (duration: 65 ms)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange] INFO - Starting the solution
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.Test] INFO - Starting the project
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.Test] INFO - Starting the HTTP server
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.Test] INFO - HTTP server started (duration: 30 ms)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.Test] INFO - Project started (duration: 79 ms)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Starting the project
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Starting the HTTP server
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project started (duration: 75 ms)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.Test] INFO - Executing the bootstrap(s)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.Test] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-12-26 21:20:08 [com.wakanda-software.DataExchange] INFO - Solution started (duration: 166 ms)
+2012-12-27 19:13:53 [com.wakanda-software.DataExchange] INFO - Stopping the solution
+2012-12-27 19:13:53 [com.wakanda-software.DataExchange.Test] INFO - Stopping the project
+2012-12-27 19:13:54 [com.wakanda-software.DataExchange.Test] INFO - Project stopped (duration: 1061 ms)
+2012-12-27 19:13:54 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Stopping the project
+2012-12-27 19:13:56 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project stopped (duration: 2063 ms)
+2012-12-27 19:13:56 [com.wakanda-software.DataExchange] INFO - Solution stopped (duration: 3125 ms)
+2012-12-27 19:13:56 [com.wakanda-software.DataExchange] INFO - Closing the solution
+2012-12-27 19:13:56 [com.wakanda-software.DataExchange.Test] INFO - Closing the project
+2012-12-27 19:13:56 [com.wakanda-software.DataExchange.Test] INFO - Closing the database
+2012-12-27 19:13:57 [com.wakanda-software.DataExchange.Test] INFO - Database closed (duration: 406 ms)
+2012-12-27 19:13:57 [com.wakanda-software.DataExchange.Test] INFO - Project closed (duration: 408 ms)
+2012-12-27 19:13:57 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Closing the project
+2012-12-27 19:13:57 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2012-12-27 19:13:57 [com.wakanda-software.DataExchange] INFO - Solution closed (duration: 817 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange] INFO - Opening the solution
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange] INFO - Opening the users and groups directory
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange] INFO - Users and groups directory opened (duration: 12 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.Test] INFO - Opening the project
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.Test] INFO - Opening the database
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.Test] INFO - Database opened (duration: 10 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.Test] INFO - Project opened (duration: 22 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Opening the project
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange] INFO - Solution opened (duration: 70 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange] INFO - Starting the solution
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.Test] INFO - Starting the project
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.Test] INFO - Starting the HTTP server
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.Test] INFO - HTTP server started (duration: 30 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.Test] INFO - Project started (duration: 79 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Starting the project
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Starting the HTTP server
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project started (duration: 75 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.Test] INFO - Executing the bootstrap(s)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.Test] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-12-27 19:28:15 [com.wakanda-software.DataExchange] INFO - Solution started (duration: 165 ms)
+2012-12-27 20:04:28 [com.wakanda-software.DataExchange] INFO - Stopping the solution
+2012-12-27 20:04:28 [com.wakanda-software.DataExchange.Test] INFO - Stopping the project
+2012-12-27 20:04:29 [com.wakanda-software.DataExchange.Test] INFO - Project stopped (duration: 1065 ms)
+2012-12-27 20:04:29 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Stopping the project
+2012-12-27 20:04:31 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project stopped (duration: 2061 ms)
+2012-12-27 20:04:31 [com.wakanda-software.DataExchange] INFO - Solution stopped (duration: 3126 ms)
+2012-12-27 20:04:31 [com.wakanda-software.DataExchange] INFO - Closing the solution
+2012-12-27 20:04:31 [com.wakanda-software.DataExchange.Test] INFO - Closing the project
+2012-12-27 20:04:31 [com.wakanda-software.DataExchange.Test] INFO - Closing the database
+2012-12-27 20:04:32 [com.wakanda-software.DataExchange.Test] INFO - Database closed (duration: 406 ms)
+2012-12-27 20:04:32 [com.wakanda-software.DataExchange.Test] INFO - Project closed (duration: 408 ms)
+2012-12-27 20:04:32 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Closing the project
+2012-12-27 20:04:32 [com.wakanda-software.DataExchange.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2012-12-27 20:04:32 [com.wakanda-software.DataExchange] INFO - Solution closed (duration: 817 ms)
